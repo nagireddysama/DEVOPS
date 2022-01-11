@@ -1,2 +1,10 @@
 fullec2withnetworks/.*
 fullec2withnetworks/terraform.*
+FULL-NETWORK-EC2/.*
+FULL-NETWORK-EC2/scripting.pem
+FULL-NETWORK-EC2/terraform.*
+import1/.*
+import1/terraform.*
+Workspaces/*
+network-dyanamic/.*
+network-dyanamic/terraform.*
